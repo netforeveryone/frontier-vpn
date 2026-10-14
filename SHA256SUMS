@@ -1,0 +1,4 @@
+# Checksums for the latest GitHub Release assets on this repository.
+# CI from platform repos updates this file when publishing a v* tag.
+# Example line format:
+# deadbeef...  KRPray_1.0.0_arm64-v8a.apk
